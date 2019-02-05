@@ -1,0 +1,88 @@
+#main {
+}
+.back {
+	background-image: url(images/ind_r3_c1.jpg);
+	background-repeat: no-repeat;
+	background-color: #FFF;
+}
+.title_link {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #039;
+	letter-spacing: 1px;
+	line-height: 30px;
+}
+a:link {
+	color: #039;
+	text-decoration: none;
+}
+a:visited {
+	color: #039;
+	text-decoration: none;
+}
+a:hover {
+	color: #C00;
+	text-decoration: underline;
+}
+a:active {
+	color: #C00;
+	text-decoration: none;
+}
+
+.title_a {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 42px;
+	line-height: 2em;
+	font-weight: 100;
+	color: #963;
+}
+.title_b {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	line-height: 32px;
+	font-weight: bold;
+	color: #699;
+}
+.txt_a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 20px;
+	color: #333;
+}
+.txt_b {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 28px;
+	color: #333;
+}
+.txt_c {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 12px;
+	color: #333;
+}.txt_c1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	line-height: 17px;
+	color: #333;
+}
+.color-R {
+	color: #F00;
+}
+.color-w {
+	color: #FFF;
+}
+box {
+	border-top-width: 2px;
+	border-right-width: 2px;
+	border-bottom-width: 2px;
+	border-left-width: 2px;
+	border-top-style: solid;
+	border-right-style: none;
+	border-bottom-style: solid;
+	border-left-style: none;
+	border-top-color: #CC0;
+	border-right-color: #CC0;
+	border-bottom-color: #CC0;
+	border-left-color: #CC0;
+}
